@@ -1,6 +1,6 @@
 # cook_book_flutter
 
-A new Flutter project.
+In this project can get all the essential widget and other network methos.
 
 ## Getting Started
 
